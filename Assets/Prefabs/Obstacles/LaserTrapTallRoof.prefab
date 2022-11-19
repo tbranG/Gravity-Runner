@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6083523874452623721
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -2292970782819100804, guid: ea86416bb01fe6446b608b8a474f435f, type: 3}
+      propertyPath: dist
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -2292970782819100804, guid: ea86416bb01fe6446b608b8a474f435f, type: 3}
+      propertyPath: dir.y
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: -2292970782819100804, guid: ea86416bb01fe6446b608b8a474f435f, type: 3}
+      propertyPath: offset.y
+      value: -2.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 4247160742112595956, guid: ea86416bb01fe6446b608b8a474f435f, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4247160742112595956, guid: ea86416bb01fe6446b608b8a474f435f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.419055
+      objectReference: {fileID: 0}
+    - target: {fileID: 4247160742112595956, guid: ea86416bb01fe6446b608b8a474f435f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.7563238
+      objectReference: {fileID: 0}
+    - target: {fileID: 4247160742112595956, guid: ea86416bb01fe6446b608b8a474f435f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4247160742112595956, guid: ea86416bb01fe6446b608b8a474f435f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4247160742112595956, guid: ea86416bb01fe6446b608b8a474f435f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4247160742112595956, guid: ea86416bb01fe6446b608b8a474f435f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4247160742112595956, guid: ea86416bb01fe6446b608b8a474f435f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4247160742112595956, guid: ea86416bb01fe6446b608b8a474f435f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4247160742112595956, guid: ea86416bb01fe6446b608b8a474f435f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4247160742112595956, guid: ea86416bb01fe6446b608b8a474f435f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4247160742112595957, guid: ea86416bb01fe6446b608b8a474f435f, type: 3}
+      propertyPath: m_Name
+      value: LaserTrapTallRoof
+      objectReference: {fileID: 0}
+    - target: {fileID: 4247160742112595958, guid: ea86416bb01fe6446b608b8a474f435f, type: 3}
+      propertyPath: m_Constraints
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4247160742112595959, guid: ea86416bb01fe6446b608b8a474f435f, type: 3}
+      propertyPath: m_Size.y
+      value: 3.0926328
+      objectReference: {fileID: 0}
+    - target: {fileID: 4247160742112595959, guid: ea86416bb01fe6446b608b8a474f435f, type: 3}
+      propertyPath: m_Offset.y
+      value: -0.9500902
+      objectReference: {fileID: 0}
+    - target: {fileID: 4247160742974709788, guid: ea86416bb01fe6446b608b8a474f435f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4247160742974709791, guid: ea86416bb01fe6446b608b8a474f435f, type: 3}
+      propertyPath: m_FlipY
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6932021196922694371, guid: ea86416bb01fe6446b608b8a474f435f, type: 3}
+      propertyPath: dir.y
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6932021196922694371, guid: ea86416bb01fe6446b608b8a474f435f, type: 3}
+      propertyPath: offset.y
+      value: -3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7873563404422331523, guid: ea86416bb01fe6446b608b8a474f435f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.59
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ea86416bb01fe6446b608b8a474f435f, type: 3}

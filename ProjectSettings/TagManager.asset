@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Spawner
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - PlayerLayer
+  - Traps
+  - Scenario
+  - Triggers
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 685073813
+    locked: 0
+  - name: Scenario
+    uniqueID: 271907245
+    locked: 0
+  - name: Objects
+    uniqueID: 1518711309
+    locked: 0
+  - name: Actors
+    uniqueID: 625058685
+    locked: 0
+  - name: Camera
+    uniqueID: 3526288199
+    locked: 0
