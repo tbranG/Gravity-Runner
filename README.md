@@ -1,2 +1,9 @@
 # Gravity-Runner
-Projeto de um Side scroller 2D produzido na unity
+Jogo Side scroller 2D produzido na game engine Unity3d
+
+Código e arte produzidos por mim
+
+Músicas:  
+
+Menu -> eardeer
+Game -> sonically_sound
