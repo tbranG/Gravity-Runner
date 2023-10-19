@@ -1,9 +1,8 @@
 # Gravity-Runner
-Jogo Side scroller 2D produzido na game engine Unity3d
+2D infinity runner game where the player have control of gravity.
 
-Código e arte produzidos por mim
+Developed in Unity Engine
+Soundtrack:  
 
-Músicas:  
-
-Menu -> eardeer
-Game -> sonically_sound
+Main menu -> eardeer
+Gameplay -> sonically_sound
